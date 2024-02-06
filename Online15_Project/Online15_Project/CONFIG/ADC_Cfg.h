@@ -1,0 +1,19 @@
+
+#ifndef ADC_CFG_H_
+#define ADC_CFG_H_
+
+
+#define SINGLE_ENDED_MODE					1
+#define DIFFERENTIAL_MODE					2
+
+/* SINGLE_ENDED_MODE - DIFFERENTIAL_MODE */
+#define ADC_MODE						SINGLE_ENDED_MODE
+
+#define FREE_RUNNING_MODE					1
+#define AUTO_TRIGGER_MODE					2
+
+/* SINGLE_ENDED_MODE - DIFFERENTIAL_MODE */
+#define ADC_RUN_TRIGGER_MODE						FREE_RUNNING_MODE
+
+
+#endif /* ADC_CFG_H_ */
