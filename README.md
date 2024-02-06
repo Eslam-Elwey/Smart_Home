@@ -7,6 +7,6 @@ APP : Smart_Home_App
 
 There Are two options to communicate with UART 
 1.Bluetooth Module HC-05 
-Design Smart Home Mobile App on MIT_APP_Inventor to create user interface on mobile phone 
+Design Smart Home Mobile App on MIT_App_Inventor to create user interface on mobile phone 
 2.Docklight Software App 
 
